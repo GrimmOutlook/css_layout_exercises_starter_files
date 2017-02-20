@@ -1,0 +1,57 @@
+main {
+  margin-top: 15vh;
+}
+
+.top-row {
+  box-sizing: border-box;
+  font-size: 0;
+  width: 800px;
+  margin: auto;
+}
+
+.green {
+  background-color: green;
+  height: 200px;
+  width: 50%;
+  border: 1px solid black;
+  display: inline-block;
+}
+
+.blue {
+  background-color: blue;
+  height: 200px;
+  width: 50%;
+  border: 1px solid black;
+  display: inline-block;
+}
+
+.bottom-row {
+  box-sizing: border-box;
+  font-size: 0;
+  width: 800px;
+  margin: auto;
+}
+
+.gray {
+  background-color: gray;
+  height: 300px;
+  width: 33.3333%;
+  border: 1px solid black;
+  display: inline-block;
+}
+
+.black {
+  background-color: black;
+  height: 300px;
+  width: 33.3333%;
+  border: 1px solid black;
+  display: inline-block;
+}
+
+.orange {
+  background-color: orange;
+  height: 300px;
+  width: 33.3333%;
+  border: 1px solid black;
+  display: inline-block;
+}
