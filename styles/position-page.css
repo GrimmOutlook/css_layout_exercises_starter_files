@@ -23,7 +23,31 @@ ul li {
   border: 1px solid black;
 }
 
+.green-box {
+  width: 600px;
+  height: 300px;
+  border: 10px dotted green;
+  position: relative;
+  bottom: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
 
+.cat-pic {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: -100px;
+  top: -100px;
+}
+
+.dog-pic {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: 500px;
+  top: 200px;
+}
 
 
 
