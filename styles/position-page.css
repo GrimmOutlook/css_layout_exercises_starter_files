@@ -23,6 +23,11 @@ ul li {
   border: 1px solid black;
 }
 
+.space-image {
+  background: no-repeat center center fixed;
+  background-size: cover;
+}
+
 .green-box {
   width: 600px;
   height: 300px;
