@@ -23,8 +23,8 @@ ul li {
   border: 1px solid black;
 }
 
-.space-image {
-  background: no-repeat center center fixed;
+body {
+  background: url(../images/outerspace_landscape.jpeg) no-repeat;
   background-size: cover;
 }
 
@@ -33,7 +33,7 @@ ul li {
   height: 300px;
   border: 10px dotted green;
   position: relative;
-  bottom: 500px;
+  margin-top: 150px;
   margin-right: auto;
   margin-left: auto;
 }
