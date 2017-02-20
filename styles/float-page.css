@@ -10,3 +10,21 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.photo-one {
+  float: left;
+  height: 350px;
+  width: 300px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-right: 5px;
+}
+
+.photo-two {
+  float: right;
+  height: 350px;
+  width: 300px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+}
